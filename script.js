@@ -24,7 +24,7 @@ function PrintStudentsbyForEach() {
   }
 }
 function addData() {
- let newObj = {id:4,name:"susan",age:"20",marks:45} 
+ let newObj = {id:4,name:"Gauri",age:"21",marks:45} 
   arr.push(newObj);
   console.log(arr);
 }
